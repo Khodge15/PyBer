@@ -17,10 +17,10 @@ According to the line graph below, the amount of fares dropped for all city type
 ### Summary:
 Based on this analysis three recomendations are provided.
 
- ##### -1. Further analysis between the average fare and the length of the fare in miles and or time to compare if the difference between city type is due to longer fares or something else. 
+   ##### -1. Further analysis between the average fare and the length of the fare in miles and or time to compare if the difference between city type is due to longer fares or something else. 
   
- ##### -2. Evaluate the number of urban drivers compared to number of rides. It appears from this data that there are more drivers than rides needed. 
+   ##### -2. Evaluate the number of urban drivers compared to number of rides. It appears from this data that there are more drivers than rides needed. 
   
- ##### -3. I would evaluate what if any overlap the suburban drivers have with both urban and rural drivers. 
+   ##### -3. I would evaluate what if any overlap the suburban drivers have with both urban and rural drivers. 
   
   Additional data is required for this more indepth analysis. 
